@@ -18,12 +18,14 @@
         - 每迟到一次，扣 1 分；
         - 每旷课一次，扣 10 分;
         - 课堂上手机音乐响动一次， 扣2分。
+        - 上课回答问题一次，加 1 分。
     - 平时成绩查询网址：http://check.thallo.world/ [仅校园网可访问]
         - 课程建议&反馈请提交 Issue
 # 开发环境
-- Windows 10
-- Android Studio 3.5.2 [下载链接：https://dl.google.com/dl/android/studio/install/3.5.2.0/android-studio-ide-191.5977832-windows.exe]
+- Windows 10 or MacOS 
+- Android Studio 23.1.1.28 [下载链接：https://dl.google.com/dl/android/studio/install/3.5.2.0/android-studio-ide-191.5977832-windows.exe]
 - JDK 8
 - Android 10 [Android SDK 29]
 
-# 1302 Test
+# 课程助教
+本学期 Android 课程助教为计算机应用开发 223 班熊志成同学担任。
